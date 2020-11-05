@@ -29,7 +29,7 @@ public async Task Execute(IJobExecutionContext context)
 ```
 
 #### Configure Cron/Schedule
-To update the value, go to `Starpup.cs`, search for the following code
+To update the value, go to `Startup.cs`, search for the following code
 
 ```
     ...
